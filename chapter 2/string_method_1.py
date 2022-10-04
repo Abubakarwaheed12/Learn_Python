@@ -1,0 +1,10 @@
+name="abu bakar waheed"
+print(len(name))
+capn=name.upper()
+print(capn)
+capn=name.lower()
+print(capn)
+capn=name.title()
+print(capn)
+capn=name.count("a")
+print(capn)
