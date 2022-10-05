@@ -1,4 +1,4 @@
-fruits=['mango' , 'bnana']
+fruits=['mango' , 'bnana','apple', 'orange']
 fruit=['apple', 'orange']
 # fruits.insert(1, "grapes")
 # print(fruits)
@@ -7,6 +7,9 @@ fruit=['apple', 'orange']
 # mixed=fruits+fruit
 
 fruits.extend(fruit)
+#  append method 
+fruits.append(fruit)
+
 
 
 print(fruits)
