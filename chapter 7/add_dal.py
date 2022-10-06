@@ -4,6 +4,7 @@ user={
     'hobby':['computing', 'cricket', 'learn to code'],
 }
 
+
 #add data 
 
 # pop method 
