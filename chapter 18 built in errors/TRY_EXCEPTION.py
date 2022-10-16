@@ -9,5 +9,8 @@ while True:
         print("may be you entered a string try again ...")
     except:
         print("unexpected input")
-    else finally:
-    
+    else:
+        print('hello')
+    finally:
+        print("ahfshsd")
+
