@@ -15,4 +15,5 @@ class  C(A,B):
     pass
 
 obj1=C()
+#It Runs the method of class A
 print(obj1.mth())
