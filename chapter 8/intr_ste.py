@@ -1,5 +1,5 @@
-#   set data type 
-#  unordered collection of uniue items 
+# set data type 
+# unordered collection of uniue items 
 # no indesxing in sets 
 # no dupplication in sets 
 

@@ -7,7 +7,7 @@ print(d)
 user={
     'name':'abu bakar waheed',
     'age':20,
-    'hobby':['computing', 'cricket', 'learn to code'],
+    'hobby':['computer Learning', 'cricket', 'learn to code'],
 }
 
 a=user.get('name')

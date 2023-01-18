@@ -1,9 +1,9 @@
 # dictionaries is a data structure 
-# unordered collectio of data 
-# not any index in  dict 
-# we can access dict through the key 
-# in  dict there are a key value pairs 
-# we can store any type of data in dict 
+# unordered collection of data 
+# not any index in  dictionary 
+# we can access dictionary through the key 
+# in  dictionary there are a key value pairs 
+# we can store any type of data in dictionary 
 # examples 
 
 user={
