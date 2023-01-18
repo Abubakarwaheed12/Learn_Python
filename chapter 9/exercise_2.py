@@ -4,6 +4,4 @@ def list_fun(l):
     new_list=[str(i) for i in l if type(i)==int or type(i)==float]
     print (new_list)
 
-
-print(list_fun(l))
-
+list_fun(l)
