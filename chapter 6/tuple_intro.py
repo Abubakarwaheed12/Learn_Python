@@ -1,7 +1,7 @@
 # tuples is data steucture 
-#  tuples cannot change when its created 
+# tuples cannot change when its created 
 
-from itertools import count
+# from itertools import count
 
 
 number=(1,2,3,4,5)

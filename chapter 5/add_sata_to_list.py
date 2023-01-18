@@ -1,3 +1,3 @@
 fruits=['mango', 'grapes']
-fruits.append("bannag")
+fruits.append("banana")
 print(fruits)

@@ -7,7 +7,7 @@ for i in days:
 
 #comma is nesseccary otherwise pyhton not consider that is  tuple 
 # for exampla
-# a=(1)
+# a=(1) 
 # so change is  write comma at end then python consider its a tuple
 a=(1,)
 print(type(a))

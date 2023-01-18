@@ -19,7 +19,7 @@ while not game_over:
             guess_number=int(input("Guess Again"))
             guess+=1
     
-# The same Code  in DRY DODING WAY  if 
+# The same Code  in DRY CODING WAY  if 
 # DRY means don't Repeat Yourself
 
 # win_number=35

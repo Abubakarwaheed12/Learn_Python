@@ -1,5 +1,5 @@
 # split method 
-# conver string to list 
+# convert string to list 
 
 name="abu bakar waheed"
 print(name.split())
