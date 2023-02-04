@@ -1,13 +1,15 @@
 # word counter program 
 
-mydic={'h':'2', 'h':'334'}
+# mydic={'h':'2', 'h':'334'}
 
-print(mydic)
+# print(mydic)
 
 def wordCounter(s):
-    count={}
+    count1={}
     for char in s:
-        count[char]=char.count(s)
-    return count
+        if char==char:
+            c=char.count(char)
+            count1[char]=c
+    return count1
 
-print(wordCounter('abubakare'))
+print(wordCounter('hhh nn nn '))
