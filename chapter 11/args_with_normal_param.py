@@ -1,6 +1,6 @@
 
 #  multipy program 
-# this function ois with normal parameters 
+# this function its with normal parameters 
 def mul(num,*args):
     ml=1
     for i in args:
