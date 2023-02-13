@@ -8,7 +8,7 @@ def wordCounter(s):
     count1={}
     for char in s:
         if char==char:
-            c=char.count(char)
+            c=s.count(char)
             count1[char]=c
     return count1
 
