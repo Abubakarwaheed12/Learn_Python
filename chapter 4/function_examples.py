@@ -1,9 +1,9 @@
 # funtion practice 
 name=input("enter your name   :  ")
-def l(name):
+def last_char_string(name):
     return name[-1]
 
-print(f"the last character of your name is : " + l(name))
+print(f"the last character of your name is : " + last_char_string(name))
 
 
 # funtion practice 

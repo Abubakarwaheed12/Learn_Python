@@ -1,8 +1,11 @@
-name=input("enter eny single word :  ")
+name=input("enter any single word :  ")
 
 def is_palindrome(name):
-    if name[0]==name[-1]:
+    if name==name[::-1]:
         return True
     else:
         return False
+
+
 print(is_palindrome(name))
+
