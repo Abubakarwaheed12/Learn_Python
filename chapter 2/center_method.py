@@ -3,7 +3,7 @@
 name="abudwajodskosdjvdv"
 star=name.center(24 , "*")
 print(star)
-inp=input("enter your name")
+inp=input("enter your name :  ")
 ab=inp.center(len(inp)+ 2, "*")
 print(ab)
 
